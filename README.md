@@ -67,4 +67,3 @@ flutter run -d chrome
 ## 👨‍💻 Autor
 
 Diego Murari  
-Aluno de Desenvolvimento Mobile  
